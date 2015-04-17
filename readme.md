@@ -1,3 +1,4 @@
-# Facades
-Turn your abstract classes on Facades with PHP!
+Facades
+=======
 
+Turn your abstract classes on Facades with PHP!
