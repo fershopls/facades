@@ -62,9 +62,9 @@ class_alias("HelloWorld", "HelloWorldFacade");
  * How to use a Facade Class?
  */
 // Use normal methods as Static class! It isn't amazing?
-HelloWorld::hello();
+echo HelloWorld::hello();
 // Almost forget! You can pass arguments too.
-HelloWorld::hello("John Doe");
+echo HelloWorld::hello("John Doe");
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  
