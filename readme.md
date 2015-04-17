@@ -21,7 +21,7 @@ Examples
 
 **Abstract Class**
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~php
 class HelloWorld {
     /*
      * Just sample method to say hello! :3
@@ -38,7 +38,7 @@ class HelloWorld {
 
 **Facade Class**
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~php
 class HelloWorldFacade extends \FershoPls\Facades\Facade {
     public function getFacadeAccessor ()
     {
@@ -52,7 +52,7 @@ class HelloWorldFacade extends \FershoPls\Facades\Facade {
 
 **Runtime Code**
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~php
 /**
  * Setup alias to use class everywhere. No really needed.
  */
